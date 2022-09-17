@@ -1,0 +1,36 @@
+.products-wrapper {
+  margin: 30px auto;
+}
+
+.card-wrapper {
+  min-width: 200px;
+  max-width: 300px;
+  height: auto;
+  min-height: 450px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.1);
+}
+
+.product-img {
+  /* min-height: 200px; */
+  max-height: 200px;
+  min-width: auto;
+  border-top-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.cart-btn {
+  margin: 0 auto;
+  background: linear-gradient(150deg, dodgerblue, rgba(25, 25, 112, 0.4));
+  background-color: midnightblue;
+  transition: 0.3s ease-in-out;
+}
+
+.cart-btn:hover {
+  scale: 1.1;
+}
+
+.prev-price {
+  text-decoration: line-through;
+}

@@ -1,0 +1,18 @@
+.filters .nav .btn {
+  color: #000;
+}
+
+.filters .nav .btn:hover {
+  color: darkgoldenrod;
+}
+
+.filter-search {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  transition: 0.2s ease-in-out;
+}
+
+.filter-search:focus {
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  outline: none;
+}
