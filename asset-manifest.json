@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/15.09.22-React-H.W/static/css/main.c7992d4d.css",
+    "main.js": "/.github.io/15.09.22-React-H.W/static/js/main.315f3eaa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/.github.io/15.09.22-React-H.W/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/.github.io/15.09.22-React-H.W/index.html",
+    "main.c7992d4d.css.map": "/.github.io/15.09.22-React-H.W/static/css/main.c7992d4d.css.map",
+    "main.315f3eaa.js.map": "/.github.io/15.09.22-React-H.W/static/js/main.315f3eaa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/.github.io/15.09.22-React-H.W/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7992d4d.css",
+    "static/js/main.315f3eaa.js"
+  ]
+}
